@@ -217,3 +217,7 @@ Proje, Whisper ve DeepL entegrasyonları aracılığıyla hem konuşma tanıma h
 - Almanca (de)
 - İtalyanca (it)
 - Portekizce (pt)
+
+---
+
+[Madara Dubbed Video](./file/Madara_dubbed_subl.mp4)
