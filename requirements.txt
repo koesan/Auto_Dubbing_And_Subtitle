@@ -1,0 +1,13 @@
+soundfile==0.13.1
+pydub==0.25.1
+moviepy==2.0.0.dev2       
+TTS==0.22.0
+openai-whisper==20240930
+deepl==1.22.0
+srt==3.5.3
+tqdm==4.67.1
+# PyTorch (CPU version)
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+torchaudio==2.5.1+cpu
+--index-url https://download.pytorch.org/whl/cpu
