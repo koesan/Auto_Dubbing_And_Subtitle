@@ -219,6 +219,3 @@ Proje, Whisper ve DeepL entegrasyonları aracılığıyla hem konuşma tanıma h
 - Portekizce (pt)
 
 ---
-
-file:///home/koesan/%C4%B0ndirilenler/Madara_dubbed_subl.mp4
--24:-82:64:64
